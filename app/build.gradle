@@ -9,11 +9,11 @@ android {
     defaultConfig {
         applicationId "com.ecar.ecarbaidumaponly"
         minSdkVersion 15
-        targetSdkVersion 24
+        targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         ndk {
-            abiFilters "armeabi", "armeabi-v7a"
+            abiFilters "armeabi", "armeabi-v7a", "arm64-v8a"
         }
 
     }

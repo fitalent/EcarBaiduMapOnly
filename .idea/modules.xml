@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EcarBaiduMapOnly.iml" filepath="$PROJECT_DIR$/EcarBaiduMapOnly.iml" group="EcarBaiduMapOnly" />
-      <module fileurl="file://$PROJECT_DIR$/app/EcarBaiduMapOnly-app.iml" filepath="$PROJECT_DIR$/app/EcarBaiduMapOnly-app.iml" group="EcarBaiduMapOnly/app" />
-      <module fileurl="file://$PROJECT_DIR$/baidumaplib/EcarBaiduMapOnly-baidumaplib.iml" filepath="$PROJECT_DIR$/baidumaplib/EcarBaiduMapOnly-baidumaplib.iml" group="EcarBaiduMapOnly/baidumaplib" />
-      <module fileurl="file://$PROJECT_DIR$/EcarBaiduMapOnly0829.iml" filepath="$PROJECT_DIR$/EcarBaiduMapOnly0829.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/baidumaplib/baidumaplib.iml" filepath="$PROJECT_DIR$/baidumaplib/baidumaplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="EcarBaiduMapOnly/app" />
+      <module fileurl="file://$PROJECT_DIR$/baidumaplib/baidumaplib.iml" filepath="$PROJECT_DIR$/baidumaplib/baidumaplib.iml" group="EcarBaiduMapOnly/baidumaplib" />
     </modules>
   </component>
 </project>
